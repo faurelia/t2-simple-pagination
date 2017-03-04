@@ -1,0 +1,11 @@
+{
+  "name": "faurelia/t2-simple-pagination",
+  "description": "A simple PHP pagination (with Bootstrap 3 example)",
+  "type": "library",
+  "keywords": ["pagination","php pagination"],
+  "homepage": "https://github.com/faurelia/t2-simple-pagination",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
