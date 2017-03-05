@@ -79,3 +79,6 @@ prev_page | the previous page if `page` is not 1
 range     | the number of page links to display, default: 5 (Note: Use ODD numbers only!)
 min_page  | the start page in the page links
 max_page  | the end page in the page links
+
+## License
+This library is distributed under [MIT](LICENSE) License. © 2017 Fatima Aurelia
