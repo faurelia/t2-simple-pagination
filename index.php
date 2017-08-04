@@ -1,5 +1,5 @@
 <?php
-require 'T2SimplePagination.php';
+require 'src/T2SimplePagination.php';
 require 'Bookshelf.sample.php';
 
 // Get page if it is set
